@@ -1,7 +1,10 @@
 # Notes App using ROOM database and MVVM in Kotlin
 
+After launching NotesApp user sees Splash Screen
 
-First screen that user sees after launching NotesApp
+![image](https://user-images.githubusercontent.com/84230029/192519566-0bff3f4f-8f8a-40cf-ac49-7cba72ec51e8.png)
+
+After that main screen is shon
 
 ![image](https://user-images.githubusercontent.com/84230029/192511168-0a98d11f-f378-48d3-b792-679d0b3e72b9.png)
 
