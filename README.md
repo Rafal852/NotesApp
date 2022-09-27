@@ -4,12 +4,12 @@ After launching NotesApp user sees Splash Screen
 
 ![image](https://user-images.githubusercontent.com/84230029/192519566-0bff3f4f-8f8a-40cf-ac49-7cba72ec51e8.png)
 
-After that main screen is shon
+After that main screen is shown
 
 ![image](https://user-images.githubusercontent.com/84230029/192511168-0a98d11f-f378-48d3-b792-679d0b3e72b9.png)
 
 
-After clicking on floatin action button user is transported to new activity where he can add new note
+After clicking on floating action button user is transported to new activity where he can add new note
 
 ![image](https://user-images.githubusercontent.com/84230029/192511805-f983d133-eee8-48b9-8523-53b5217b6a3b.png)
 
